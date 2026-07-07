@@ -7,3 +7,4 @@ __pycache__/
 .pytest_cache/
 .venv/
 web/node_modules/
+web/tsconfig.tsbuildinfo
