@@ -1,0 +1,9 @@
+# 数据文件绝不入库
+period_state.json
+
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+web/node_modules/
